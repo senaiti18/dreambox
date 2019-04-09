@@ -7,7 +7,7 @@ package dreamboxproject;
 
 /**
  *
- * @author Senai
+ * @author TI18
  */
 public class DreamBoxProject {
 
